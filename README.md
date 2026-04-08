@@ -1,4 +1,4 @@
-# 📰 Header Fake News Analysis Project
+# 📰 Fake News Analysis Project
 
 ## 📌 Project Overview
 
